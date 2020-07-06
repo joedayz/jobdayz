@@ -1,0 +1,14 @@
+/usr/local/Cellar/ruby/2.7.1_2/lib/ruby/2.7.0/rubygems/core_ext/kernel_require.rb:92:in `require': cannot load such file -- app (LoadError)
+	from /usr/local/Cellar/ruby/2.7.1_2/lib/ruby/2.7.0/rubygems/core_ext/kernel_require.rb:92:in `require'
+	from /Users/josediaz/Downloads/jobdayz/Ostfile:1:in `<top (required)>'
+	from /usr/local/lib/ruby/gems/2.7.0/gems/ost-bin-0.1.1/bin/ost:93:in `load'
+	from /usr/local/lib/ruby/gems/2.7.0/gems/ost-bin-0.1.1/bin/ost:93:in `<top (required)>'
+	from /usr/local/lib/ruby/gems/2.7.0/bin//ost:23:in `load'
+	from /usr/local/lib/ruby/gems/2.7.0/bin//ost:23:in `<main>'
+/usr/local/Cellar/ruby/2.7.1_2/lib/ruby/2.7.0/rubygems/core_ext/kernel_require.rb:92:in `require': cannot load such file -- app (LoadError)
+	from /usr/local/Cellar/ruby/2.7.1_2/lib/ruby/2.7.0/rubygems/core_ext/kernel_require.rb:92:in `require'
+	from /Users/josediaz/Downloads/jobdayz/Ostfile:1:in `<top (required)>'
+	from /usr/local/lib/ruby/gems/2.7.0/gems/ost-bin-0.1.1/bin/ost:93:in `load'
+	from /usr/local/lib/ruby/gems/2.7.0/gems/ost-bin-0.1.1/bin/ost:93:in `<top (required)>'
+	from /usr/local/lib/ruby/gems/2.7.0/bin//ost:23:in `load'
+	from /usr/local/lib/ruby/gems/2.7.0/bin//ost:23:in `<main>'

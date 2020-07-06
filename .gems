@@ -1,0 +1,12 @@
+cuba -v 3.1.0
+mote -v 1.1.2
+cuba -v 3.9.2
+rack-protection -v 2.0.8.1
+ohm -v 3.1.1
+requests -v 1.0.2
+nobi -v 0.0.1
+stripe -v 5.22.0
+shield -v 2.1.1
+ost -v 1.0.0
+malone -v 1.2.0
+ost-bin -v 0.1.1
